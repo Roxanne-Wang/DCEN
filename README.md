@@ -14,7 +14,8 @@ You need to download animals with attributes 2 datasets.
 
 change the data path in 1.sh
 
-'''
+``` 
 cd scripts
-bash 1.sh
-'''
+bash 1.sh``` 
+
+
