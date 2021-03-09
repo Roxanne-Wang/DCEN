@@ -12,10 +12,12 @@ You need to download animals with attributes 2 datasets.
 
 ## Train and test
 
-change the data path in 1.sh
+change the data path in 1.sh. Then train DCEN on one GPU:
 
 ``` 
 cd scripts
-bash 1.sh``` 
+bash 1.sh
+
+``` 
 
 
