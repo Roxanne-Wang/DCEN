@@ -7,7 +7,7 @@ This is the code of "Task-Independent Knowledge Makes for Transferable Represent
 
 # Quick Start
 
-This code is for awa2 dataset.
+This code uses awa2 dataset.
 
 - Install PyTorch=0.4.1.
 - Install dependencies: pip install -r requirements.txt
